@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m passionate about building impactful solution
 🌐 [My Portfolio](https://portfolio-viraj-patidar.vercel.app/)
 
 ## 🚀 About Me
-- 👨‍💻 Developer and tech enthusiast
+- 👨‍💻 FullStack Developer and tech enthusiast
 - 📚 Always learning and exploring new technologies
-- 💡 Interested in web development, cloud, and open-source
+- 💡 Interested in web development, and open-source
 
 ## 📈 GitHub Stats
 ![Viraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virajp2001&show_icons=true&theme=radical)
@@ -17,17 +17,17 @@ Welcome to my GitHub profile! I’m passionate about building impactful solution
 ## 🔗 Connect with Me
 - 🌐 [Portfolio](https://portfolio-viraj-patidar.vercel.app/)
 - 💻 [GitHub](https://github.com/virajp2001)
+- 💼 [LinkedIn](https://www.linkedin.com/in/viraj-patidar-152821281/)
+- 📄 [Resume](https://portfolio-viraj-patidar.vercel.app/file/resume.pdf)
 
 ## 🛠️ Skills
 <!-- List your top skills here -->
 - JavaScript | React | Node.js
-- Python | Django
-- Cloud | DevOps | APIs
+- Java 
+- SQL | MongDB | APIs
 
 ## 📂 Featured Projects
-<!-- Highlight your favorite repos/projects here -->
-- [Project 1](#)  
-- [Project 2](#)
+- 🌟 [Vue Tech Project](https://vue-tech-viraj.vercel.app/)
 
 ## 🏆 Fun Facts
 - 🎯 I love solving real-world problems with code
