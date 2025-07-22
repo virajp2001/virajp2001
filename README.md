@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about building impactful solution
 
 ## 🛠️ Skills
 <!-- List your top skills here -->
-- JavaScript | React | Node.js
+- JavaScript | React | Vue.js | Node.js
 - Java 
 - SQL | MongDB | APIs
 
